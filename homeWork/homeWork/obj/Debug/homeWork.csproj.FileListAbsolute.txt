@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\homeWork\homeWork\bin\Debug\homeWork.exe.config
+C:\Users\hp\source\repos\homeWork\homeWork\bin\Debug\homeWork.exe
+C:\Users\hp\source\repos\homeWork\homeWork\bin\Debug\homeWork.pdb
+C:\Users\hp\source\repos\homeWork\homeWork\obj\Debug\homeWork.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\homeWork\homeWork\obj\Debug\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\homeWork\homeWork\obj\Debug\homeWork.exe
+C:\Users\hp\source\repos\homeWork\homeWork\obj\Debug\homeWork.pdb
+C:\Users\hp\Desktop\homeWork\homeWork\bin\Debug\homeWork.exe.config
+C:\Users\hp\Desktop\homeWork\homeWork\bin\Debug\homeWork.exe
+C:\Users\hp\Desktop\homeWork\homeWork\bin\Debug\homeWork.pdb
+C:\Users\hp\Desktop\homeWork\homeWork\obj\Debug\homeWork.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\homeWork\homeWork\obj\Debug\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\homeWork\homeWork\obj\Debug\homeWork.exe
+C:\Users\hp\Desktop\homeWork\homeWork\obj\Debug\homeWork.pdb
